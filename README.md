@@ -1,3 +1,5 @@
-# Projects for circuits:
-***cpu, 
-***cache implementation
+# Projects for circuits using Logisim-evolution:
+
+cpu implementation
+
+cache implementation
