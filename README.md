@@ -1,1 +1,3 @@
-# Projects for circuits cpu, cache implementation
+# Projects for circuits:
+***cpu, 
+***cache implementation
